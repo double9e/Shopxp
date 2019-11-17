@@ -1,0 +1,9 @@
+name: ShopXP
+version: 1.0.0
+api: 3.0.0
+main: XP\Main
+author: pongketkorn111
+
+commands:
+ shopxp:
+  description: "OPEN UI ShopXP"
